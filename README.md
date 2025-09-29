@@ -57,7 +57,7 @@ Sou [Diga brevemente quem você é e o que faz. Ex: um desenvolvedor Full-stack 
   <a href="URL_DO_SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="(https://www.instagram.com/vncs_x)" target="_blank">
+  <a href="https://www.instagram.com/vncs_x" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="URL_DO_SEU_PORTFÓLIO" target="_blank">
