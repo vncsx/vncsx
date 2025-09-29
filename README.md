@@ -54,13 +54,10 @@ Sou [Diga brevemente quem você é e o que faz. Ex: um desenvolvedor Full-stack 
 ## 🔗 Meus Links
 
 <div align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-vinicius-si" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/vncs_x" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="URL_DO_SEU_PORTFÓLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=v&logoColor=white" alt="Portfólio">
   </a>
 </div>
