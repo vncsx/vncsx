@@ -63,4 +63,7 @@ Sou [Diga brevemente quem você é e o que faz. Ex: um desenvolvedor Full-stack 
   <a href="https://www.instagram.com/vncs_x" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+   <a href="vinnisoulza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
