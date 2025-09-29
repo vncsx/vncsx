@@ -27,13 +27,18 @@ Sou [Diga brevemente quem você é e o que faz. Ex: um desenvolvedor Full-stack 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 My Github Stats
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vncsx&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vncsx&layout=compact&langs_count=7&theme=onedark"/>
-</div>
----
+  <br/>
+  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=tauz-hub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tauz-hub/tauz-hub.git"><img alt="Tauz Top Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauz-hub&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=javascript" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+
+<br/>
+<br/>
 
 ### Language and Tools
 
